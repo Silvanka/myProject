@@ -1,0 +1,9 @@
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\bin\Debug\DBStudentsInfo.exe.config
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\bin\Debug\DBStudentsInfo.exe
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\bin\Debug\DBStudentsInfo.pdb
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\obj\Debug\DBStudentsInfo.csprojResolveAssemblyReference.cache
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\obj\Debug\DBStudentsInfo.Form1.resources
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\obj\Debug\DBStudentsInfo.Properties.Resources.resources
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\obj\Debug\DBStudentsInfo.csproj.GenerateResource.Cache
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\obj\Debug\DBStudentsInfo.exe
+c:\users\silvanka\documents\visual studio 2015\Projects\DBStudentsInfo\DBStudentsInfo\obj\Debug\DBStudentsInfo.pdb
